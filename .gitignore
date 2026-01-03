@@ -1,0 +1,13 @@
+*.exe
+*.sum
+*.log
+.env
+.DS_Store
+node_modules/
+dist/
+.vite/
+__pycache__/
+db.sqlite3
+*.pyc
+.vscode/
+.idea/
